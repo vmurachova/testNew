@@ -1,2 +1,3 @@
 node_modules
 cypress/e2e/spec.cy copy.js
+cypress/fixtures/example.json
